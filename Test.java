@@ -57,7 +57,15 @@ public class Test {
 		// int n = 35;
 		// System.out.println(java_70.climbStairs(n));
 		
-		
+		/**
+		 * leetcode_283
+		 */
+		java_283 java_283 = new java_283();
+		int[] nums = {0,0,0,0,0,0,0,0,0,0,0};
+		java_283.moveZeroes(nums);
+		for(int i = 0;i<nums.length-1;i++){
+			System.out.println(nums[i]+" ");
+		}
 		
 		
 		
