@@ -1,8 +1,15 @@
 package leetcode;
 
+import leetcode.java_234.ListNode;
+
 public class Test {
 	public static void main(String[] args) {
+		/**
+		 * leetcode_≤‚ ‘
+		 */
 
+		
+		
 		/**
 		 * leetcode_121≤‚ ‘
 		 */
@@ -60,15 +67,12 @@ public class Test {
 		/**
 		 * leetcode_283
 		 */
-		java_283 java_283 = new java_283();
-		int[] nums = {0,0,0,0,0,0,0,0,0,0,0};
-		java_283.moveZeroes(nums);
-		for(int i = 0;i<nums.length-1;i++){
-			System.out.println(nums[i]+" ");
-		}
-		
-		
-		
+		// java_283 java_283 = new java_283();
+		// int[] nums = {0,0,0,0,0,0,0,0,0,0,0};
+		// java_283.moveZeroes(nums);
+		// for(int i = 0;i<nums.length-1;i++){
+		// System.out.println(nums[i]+" ");
+		// }
 
 	}
 }
